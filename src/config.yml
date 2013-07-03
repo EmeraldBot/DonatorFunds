@@ -1,0 +1,19 @@
+General:
+  ClaimMessageToPlayer: "&aYou have received &3%money &afor the &3%rank &arank."
+  ClaimMessageSpy: "&3%player &ahas claimed the &3%rank &arank."
+Ranks:
+  VIP:
+    money: 2500
+  Premium:
+    money: 5000
+  Executive:
+    money: 10000
+  Titanium:
+    money: 15000
+  Elite:
+    money: 30000
+  Legendary:
+    money: 50000
+  Platinum:
+    money: 100000
+players:

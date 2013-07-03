@@ -1,0 +1,7 @@
+name: DonatorFunds
+version: 1.0
+main: com.etriacraft.mistphizzle.DonatorFunds.DonatorFunds
+author: MistPhizzle
+commands:
+  donatorfunds:
+    aliases: [df]
